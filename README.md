@@ -8,7 +8,8 @@ This repository contains exercises, datasets, and notebooks from the **Data and 
 
 Data_and_Things_Exam/
 ├── 1_Data_Transformation_and_EDA/
-│ └── Exercises in DT and EDA.ipynb
+│ 
+└── Exercises in DT and EDA.ipynb
 ├── 2_Data_Engineering/
 │ ├── 2 DE_Task.ipynb
 │ └── online_retail_II.xlsx
