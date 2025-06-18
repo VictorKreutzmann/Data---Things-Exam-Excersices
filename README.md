@@ -6,7 +6,7 @@ This repository contains exercises, datasets, and notebooks from the **Data and 
 
 ## 📁 Project Structure
 
-Data_and_Things_Exam/
+D_RAG_notebook/
 ├── .vscode/
 │
 ├── 1) Data transformation and EDA/
@@ -66,6 +66,51 @@ Data_and_Things_Exam/
 ├── 14) Ethical reflections on data science/
 │   ├── Exercises in Fairness in Machine Learning.ipynb
 │   └── adult.csv
+│
+├── docs/graph/
+│   ├── D_rag_architecture.excalidraw
+│   └── D_rag_architecture.excalidraw.ZIP
+│
+├── notebooks/
+│   └── Examin_test/
+│       ├── examin_test_results.ipynb
+│       ├── test_result_baseline_rettet.xlsx
+│       └── test_results_final_rettet_af_jose.xlsx
+│
+├── output/json/
+│   ├── crawl_result.json
+│   ├── crawl_results_3.json
+│   └── translation_of_rag_results.json
+│
+├── r1_test/
+│   ├── deep_seekr1_full.md
+│   ├── deepseekr1.md
+│   └── deepseekr1_danskvsEngelsk.md
+│
+├── script/
+│   ├── __init__.py
+│   ├── retsinfo_crawl_test.py
+│   ├── test.py
+│   └── utils.py
+│
+├── test/
+│   ├── crawler_test.ipynb
+│   ├── test.ipynb
+│   ├── test_client_crawl.ipynb
+│   ├── translate_test.ipynb
+│   ├── rets_info_scrape.ipynb
+│   ├── tag_search_query.ipynb
+│   ├── translation_of_awnser.ipynb
+│   └── translation_rag_results.ipynb
+│
+├── .gitignore
+├── README.md
+├── docker-compose.yml
+├── example.env
+├── nginx.conf
+├── poetry.lock
+└── pyproject.toml
+
 ---
 
 ## 🧠 Topics Covered
