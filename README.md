@@ -7,51 +7,65 @@ This repository contains exercises, datasets, and notebooks from the **Data and 
 ## 📁 Project Structure
 
 Data_and_Things_Exam/
-├── 1_Data_Transformation_and_EDA/
-│ 
-└── Exercises in DT and EDA.ipynb
-├── 2_Data_Engineering/
-│ ├── 2 DE_Task.ipynb
-│ └── online_retail_II.xlsx
-├── 3_Statistics/
-│ ├── Exercises in statistics (1).ipynb
-│ └── energySoftware.csv
-├── 4_Regression/
-│ ├── Exercises in linear regression.ipynb
-│ └── EnergyEfficiency.csv
-├── 5_Time_Series/
-│ └── TSA_Task.ipynb
-├── 6_Classification/
-│ ├── Exercises in Classification II copy.ipynb
-│ └── adult.csv
-├── 7_IoT_and_Sensor_Data/
-│ ├── 7 IoT and sensor data.ipynb
-│ ├── IoT_subscriber.ipynb
-│ ├── diabetes.csv
-│ └── pdm_task.ipynb
-├── 8_Clustering/
-│ ├── Exercises in Clustering.ipynb
-│ └── Ch5_bike_station_locations.csv
-├── 9_MLOps/
-│ ├── MLOps exercises.ipynb
-│ ├── AmesHousing.csv
-│ ├── AmesHousing1.csv
-│ └── AmesHousing2.csv
-├── 10_Recommender_Systems/
-│ ├── Exercises in Recommender systems.ipynb
-│ ├── Books.csv
-│ ├── Books_Ratings.csv
-│ └── Coursera.csv
-├── 11_Neural_Networks_and_Deep_Learning/
-│ ├── Exercises in neural network and deep learning II.ipynb
-│ └── adult.csv
-├── 12_Generative_AI/
-│ └── rag_task.ipynb
-├── 13_Explainability/
-│ └── explanability exercise.ipynb
-└── 14_Ethical_Reflections/
-├── Exercises in Fairness in Machine Learning.ipynb
-└── adult.csv
+├── .vscode/
+│
+├── 1) Data transformation and EDA/
+│   └── Exercises in DT and EDA.ipynb
+│
+├── 2) Data Engineering/
+│   ├── 2_DE_Task.ipynb
+│   └── online_retail_II.xlsx
+│
+├── 3) Statistics/
+│   ├── Exercises in statistics (1).ipynb
+│   └── energySoftware.csv
+│
+├── 4) Regression/
+│   ├── EnergyEfficiency.csv
+│   └── Exercises in linear regression.ipynb
+│
+├── 5) Time Series/
+│   └── TSA_Task.ipynb
+│
+├── 6) Classification/
+│   ├── Exercises in Classification II copy.ipynb
+│   └── adult.csv
+│
+├── 7) IoT and Sensor data/
+│   ├── 7_IoT_and_sensor_data.ipynb
+│   ├── IoT_subscriber.ipynb
+│   ├── diabetes.csv
+│   └── pdm_task.ipynb
+│
+├── 8) Clustering/
+│   ├── Ch5_bike_station_locations.csv
+│   └── Exercises in Clustering.ipynb
+│
+├── 9) Machine Learning Operations (MLOps)/
+│   ├── AmesHousing.csv
+│   ├── AmesHousing1.csv
+│   ├── AmesHousing2.csv
+│   └── MLOps_exercises.ipynb
+│
+├── 10) Recommender systems/
+│   ├── Books.csv
+│   ├── Books_Ratings.csv
+│   ├── Coursera.csv
+│   └── Exercises in Recommender systems.ipynb
+│
+├── 11) Neural network and deep learning/
+│   ├── Exercises in neural network and DL.ipynb
+│   └── adult.csv
+│
+├── 12) Generative AI/
+│   └── rag_task.ipynb
+│
+├── 13) Explainability/
+│   └── explainability_exercise.ipynb
+│
+├── 14) Ethical reflections on data science/
+│   ├── Exercises in Fairness in Machine Learning.ipynb
+│   └── adult.csv
 ---
 
 ## 🧠 Topics Covered
